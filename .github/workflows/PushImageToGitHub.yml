@@ -21,3 +21,5 @@ jobs:
           context: DockerFileFolder/
           push: true
           tags: sgveeran49/stan:latest
+          
+          
